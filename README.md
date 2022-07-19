@@ -2,7 +2,8 @@
 
 베이킹 원데이 클래스 중개를 위한 웹 어플리케이션 프로젝트
 
-![localhost_8888_ (3).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f0a6f1c-3c0c-4f9a-8e20-2e0d7749d714/localhost_8888__(3).png)
+![localhost_8888_ (3)](https://user-images.githubusercontent.com/100504037/179753139-9539e568-5756-4a99-a401-b6a1c9364405.png)
+
 
 ## 📃  달콤스쿨 개요
 
